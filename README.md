@@ -1,4 +1,4 @@
-# Arduino_Servo_Controller_And_Temprature_Interface_In_MatlabGui
+# Arduino Servo Controller And Temprature Interface In MatlabGui
 This project is an interface communicating with arduino design in Matlab Gui .
 
 ![image](https://user-images.githubusercontent.com/67158049/123934325-d9abb800-d99b-11eb-91c7-fe60f2e652a6.png)
